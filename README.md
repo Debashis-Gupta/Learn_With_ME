@@ -1,0 +1,1 @@
+Hey Everyone, This is a open resource to anyone who wants to build a foundational knowledge on specific topic. If you like it and want to encourage me please give a star and fork it for your future reference.
